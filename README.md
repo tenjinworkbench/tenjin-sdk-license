@@ -1,2 +1,3 @@
-# tenjin-sdk-license
-License page for Tenjin SDK
+# License page for Tenjin SDK
+
+This repo contains the license page for Tenjin SDK
